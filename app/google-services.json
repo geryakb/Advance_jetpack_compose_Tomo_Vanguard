@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111199974876",
+    "project_id": "tugastomovanguard",
+    "storage_bucket": "tugastomovanguard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111199974876:android:73c88992f7d1d73907cb19",
+        "android_client_info": {
+          "package_name": "com.example.tomovanguard_tugas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRvzp-6UVj7Pw_kUXwkl-K0LAQcoapkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
